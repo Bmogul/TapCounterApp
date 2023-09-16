@@ -22,10 +22,10 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Created a boost system that lasts 30s for the cost of one level
-- [ ] 
+
 ## Video Walkthrough
 
-[Imgur](https://i.imgur.com/jdcdhZ2.gifv)
+![Imgur](https://i.imgur.com/jdcdhZ2.gifv)
 
 ## Notes
 
