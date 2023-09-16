@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapCounterApp</string>
+    <string name="Arcana_text">Arcana: </string>
+    <string name="Level_text">Level: </string>
+    <string name="level_up">Level Up</string>
+    <string name="boost_button">Boost</string>
+    <string name="counter_button">counter</string>
+</resources>
