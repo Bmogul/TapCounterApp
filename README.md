@@ -25,8 +25,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='https://i.imgur.com/f3d3kL3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![](https://i.imgur.com/f3d3kL3.gif)
+
 GIF created with Kap and hosted with imgur
 
 ## Notes
